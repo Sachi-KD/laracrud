@@ -10,10 +10,7 @@ Route::get('/user', function (Request $request) {
 
 Route::apiResource('products',ProductController::class);
 
-
-
-
-
+           
 
 
 
